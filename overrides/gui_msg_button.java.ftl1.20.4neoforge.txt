@@ -1,0 +1,4 @@
+gui_msg_button.java.ftl
+temp_generator/neoforge-1.20.4/templates\gui\gui_msg_button.java.ftl
+1.20.4
+neoforge

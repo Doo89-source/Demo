@@ -1,0 +1,23 @@
+{
+  "name": "montest",
+  "translation_key": "TextBox %1 blabla2",
+  "type": 1,
+  "color": [
+    0.843137264251709,
+    0.3430411219596863,
+    0.3430411219596863,
+    1.0
+  ],
+  "category": "Slot & GUI procedures",
+  "category_index": 11,
+  "world_dependency": true,
+  "type_index": 6,
+  "versions": [
+    "1.20.4_NeoForge"
+  ],
+  "components": {
+    "monchamp": {
+      "type": 1
+    }
+  }
+}
